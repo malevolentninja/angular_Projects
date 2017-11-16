@@ -3,12 +3,12 @@ Projects using AngularJs. I have included links to codepen demos for now, the mo
 
 #### Simple NavBar
 - [Demo](https://codepen.io/malevolentninja/pen/zPNLKN)
-- [Blog]()
+- [Blog](https://urbanwudangwarrior.wordpress.com/2017/11/11/angularjs-fundamentals/)
 
 #### Simple NoteApp
 Basic Note App
 - [Demo](https://codepen.io/malevolentninja/pen/eeRxVK)
-- [Blog]()
+- [Blog](https://urbanwudangwarrior.wordpress.com/2017/11/11/angularjs-fundamentals/)
 - to be added: CSS and typography improvements
 
 #### Simple ToDo List
