@@ -17,6 +17,12 @@ Just like everyone else I have create a simple todo list using AngularJS, hence 
 - [Demo](https://codepen.io/malevolentninja/pen/VrMBYo)
 - to be added: CSS and typography improvements
 
+#### Simple Shopping List
+Simple shopping list, I go into more depth than usual as I changed my approach. 
+
+- [Demo](https://codepen.io/malevolentninja/pen/ZamjzX)
+- [Blog](urbanwudangwarrior.wordpress.com/2017/11/23/angular-js-shopping-list/)
+
 #### Angular SignUp/Login Page
 Included email validation
 
