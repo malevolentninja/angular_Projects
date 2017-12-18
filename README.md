@@ -2,6 +2,7 @@
 Projects using AngularJs. I have included links to codepen demos for now, the more advanced, the more they will be using the CLI.
 
 #### Simple NavBar
+- This project uses only Angular's directives, and is the simplest app possible using the framework.
 - [Demo](https://codepen.io/malevolentninja/pen/zPNLKN)
 - [Blog](https://urbanwudangwarrior.wordpress.com/2017/11/11/angularjs-fundamentals/)
 
